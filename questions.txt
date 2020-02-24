@@ -1,0 +1,159 @@
+What keyword introduces a function in python?
+
+Mario is the primary character on nintendo,
+  what is the primary character on the sega platform?
+
+What language is scratch 3 implemented in?
+
+Name 2 computer languages beginning with P:
+
+How many bits in a byte?
+
+Where did the python language get its name?
+
+What two things do all scratch programs have?
+  1. sprites and menus
+  2. sprites and costumes
+  3. scripts and instruction blocks
+  4. sprites and scripts
+
+What does WWW stand for?
+
+What does RAM stand for?
+
+Which area in scratch, can sprites and scripts be stored in and copied from?
+  1. blocks palette
+  2. backpack
+  3. stage
+  4. knapsack
+
+How do you insert comments in python code?
+  1. /*
+  2. //
+  3. #
+  4. "
+
+What does USB stand for?
+
+Which is NOT a valid variable name?
+  1. Myvar
+  2. my-var
+  3. my_var
+  4. _myvar
+
+Which is valid python?
+  1. if (x > y)
+  2. if x > y then:
+  3. if x > y:
+
+Which is biggest:
+  1. Tera
+  2. Mega
+  3. Giga
+  4. Kilo
+
+What does CPU stand for?
+
+In programming what is used to store and reference data
+
+what operating system powers most phones, TVs, and internet sites?
+
+A computer program is most like?
+  1. encyclopaedia
+  2. recipe
+  3. dictionary
+  4. novel
+
+["what", "data", "type", "is", "this", "in", "python"]
+
+A doctor gives you three pills and tells you to take one every half hour.
+  How long do the pills last?
+
+what colour are operator blocks in scratch?
+
+what does the i in iphone stand for?
+
+What word describes the instructions used to control sprites in scratch?
+  1. command
+  2. score
+  3. script
+  4. backpack
+
+Who was the first computer programmer? A programming language was named after her.
+
+If the day before yesterday is the 20th, then what is the day after tomorrow.
+
+If 5 dogs catch 5 rabbits in 5 minutes, how long will it take one dog to catch a rabbit?
+
+In minecraft what material can you build complicated machines with?
+  1. bluestone
+  2. redstone
+  3. gold
+  4. obsidian
+
+In which country do they let you play minecraft in school?
+  1. Norway
+  2. Sweden
+  3. France
+  4. Japan
+
+What CPU architecture does the Raspberry Pi use?
+  1. AMD64
+  2. MIPS
+  3. ARM
+  4. POWER
+
+How many 9s in the numbers from 1 to 100?
+
+A Raspberry Pi is best described as a?
+  1. Hardware adapter
+  2. I/O board
+  3. Small computer
+  4. Graphics card
+
+What python keyword makes external functionality available to your program?
+  1. include
+  2. import
+  3. access
+  4. use
+
+True or False? Some ninjas are coders. Some coders can play football.
+  Thus, some ninjas can play football.
+
+What would you use to change the location of a sprite on the stage in scratch?
+  1. stage information
+  2. costume tab
+  3. coordinates
+  4. clicking the "file" menu
+
+What does the following python program output?
+  sum(range(1, 100+1))
+  1. 101
+  2. 102
+  3. 5050
+  4. 1000
+
+coolest projects international is in which country in 2020?
+  1. UK
+  2. Ireland
+  3. France
+  4. America
+
+Which of the following modules are NOT provided by default with python
+  1. Tkinter
+  2. turtle
+  3. snake
+  4. string
+
+what does the following python code return:
+len({1,2,3,2,1})
+  a. 2
+  b. 3
+  c. 4
+  d. 5
+
+{"what": "data", "type": "is", "this": "in python"}
+  1. dictionary
+  2. tuple
+  3. array
+  4. list
