@@ -1,0 +1,24 @@
+#!/bin/python3
+
+# Input
+questions = open("questions.txt").read().split("\n\n")
+
+# Processing
+size = 10; groups = [questions[x:x+size] for x in range(0, len(questions), size)]
+
+# Output
+import os
+group_n = 1
+for group in groups:
+    os.system("clear")
+    print("=== Round %d ===" % group_n)
+    group_n += 1
+
+    wait = input()
+    question_n = 1
+    for question in group:
+        print("--- question %d ---" % question_n)
+        question_n += 1
+        print(question.strip())
+
+        wait = input()

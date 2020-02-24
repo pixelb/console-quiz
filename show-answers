@@ -1,0 +1,20 @@
+#!/bin/sh
+
+round=$1
+export end=$(($round * 10))
+export start=$(($end - 10))
+export current=0
+
+# highlight differences between questions and question+answers
+idiff questions.txt questions-answers.txt |
+
+# discard the subset of questions not included
+grep -v 31m- |
+
+# display line per line (return to proceed)
+while read; do
+    [ "$REPLY" = ' ' ] && current=$(($current + 1))
+    [ $current -lt $start ] && continue
+    echo -n "$REPLY"; read </dev/tty
+    [ $current -ge $end ] && break
+done
