@@ -1,17 +1,20 @@
 #!/bin/sh
 
-round=$1
+round=$1  # Pass quiz round as the first parameter
+
 export end=$(($round * 10))
 export start=$(($end - 10))
 export current=0
 
 # highlight differences between questions and question+answers
-idiff questions.txt questions-answers.txt |
+diff -u --color=always questions.txt questions-answers.txt |
 
 # discard the subset of questions not included
 grep -v 31m- |
 
-# display line per line (return to proceed)
+# Display line per line (return to proceed).
+# Being able to precisely time the display of the answer
+# is important to the dynamics of the room
 while read; do
     [ "$REPLY" = ' ' ] && current=$(($current + 1))
     [ $current -lt $start ] && continue
